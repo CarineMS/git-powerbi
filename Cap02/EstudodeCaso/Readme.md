@@ -1,7 +1,7 @@
 # Dados de vendas Empresa XYZ
 
-Esse Dashboard foi realizado com exercício do Capítulo 02 curso Microsoft Power BI para Data Science 2.0 (Data Science Academy)
-
+Esse Dashboard foi realizado como exercício do Capítulo 02 curso Microsoft Power BI para Data Science 2.0 (Data Science Academy)[https://www.datascienceacademy.com.br/]
+ 
 Referente ao período de 2016 à 2019 apresente:
 
 01) Total de Vendas por Ano.
