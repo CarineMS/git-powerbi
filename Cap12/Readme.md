@@ -3,7 +3,7 @@
 O capítulo 12 utiliza-se da linguagem R por meio da ferramenta RStudio ao longo de cinco tarefas de análise estatística que apresentam:
 
 01) Medidas de Posição;
-'''
+```
 # Definindo a pasta de trabalho
 # Substitua o caminho abaixo pela pasta no seu pc
 
@@ -58,7 +58,7 @@ ggplot(vendas) +
                fill = "lightpink",
                col = "grey50") +
   labs(title = "Média de Valor Por Estado")
-'''
+```
 02) Medidas de Dispersão;
 03) Medidas de Posição Relativa.
 04) Tabelas de Frequência.
