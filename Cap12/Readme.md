@@ -7,7 +7,7 @@ O capítulo 12 utiliza-se da linguagem R por meio da ferramenta RStudio ao longo
 # Definindo a pasta de trabalho
 # Substitua o caminho abaixo pela pasta no seu pc
 
-setwd("C:/Users/gsmar/OneDrive/Área de Trabalho/DSA/PowerBI/Cap12")
+setwd("C:/Users/...")
 getwd()
 
 # Carregando os dados
