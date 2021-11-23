@@ -11,18 +11,17 @@ O trabalho é prever a inadimplência de clientes de cartão de crédito. E para
 
 ```
 #*************************************************************************
-#
-#                           Data Science Academy
-#                              Mini-Projeto 3
-#                         Inadimplência de Clientes 
-#                Análise Exploratória e Limpeza dos Dados
-#
-
-#                           Carine Madeira Soares
+#                                                                        #
+#                           Data Science Academy                         #
+#                              Mini-Projeto 3                            #
+#                         Inadimplência de Clientes                      #
+#                Análise Exploratória e Limpeza dos Dados                #
+#                                                                        #
+#                           Carine Madeira Soares                        #
 #*************************************************************************
 
 # Pasta de trabalho
-setwd("C:/Users/gsmar/OneDrive/Área de Trabalho/DSA/PowerBI/Cap15")
+setwd("C:/Users/...")
 getwd()
 
 # Pacotes instalações
