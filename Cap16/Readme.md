@@ -165,4 +165,32 @@ INSERT INTO cap16."TB_ENDERECO"(
 /* Média do salario hora por região de procedencia */
  /* SELECT round(AVG(salario_hora)), reg_procedencia FROM cap16."TB_FUNC" group by reg_procedencia */
 ```
+# Resolução da Tarefa
+## 01) Crie uma intrução SQL que retorne a média de idade, número de filhos e grau de instrução dos funcionários cujo salario_hora estiver acima da média de todos os funcionários. Retorne os dados somente de funcionarios da capital e estado civil casado, com ordem decrescente da média da idade.
+```
+SELECT ROUND(AVG(idade)), numero_filhos, grau_instrucao
+FROM cap16."TB_FUNC" 
+WHERE reg_procedencia = 'capital'
+  AND estado_civil = 'casado'
+  AND salario_hora > (SELECT AVG(salario_hora) FROM cap16."TB_FUNC")
+GROUP BY numero_filhos, grau_instrucao
+ORDER BY round(AVG(idade)) DESC
+```
+## 02) Retorne todos os registros dos funcionarios com dois filhos.
+```
+SELECT * 
+FROM cap16."TB_FUNC"
+WHERE numero_filhos = '2'
 
+/* SELECT * 
+FROM cap16."TB_FUNC"
+WHERE cast(numero_filhos as integer)= 2 */
+
+```
+## 03) Retorne a média de salário hora por estado. 
+```
+SELECT round(AVG(f.salario_hora)),e.estado
+FROM cap16."TB_FUNC" f, cap16."TB_ENDERECO" e
+WHERE "ID" = "id_func"
+GROUP BY e.estado
+```
