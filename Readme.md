@@ -1,4 +1,6 @@
-![alt text](https://github.com/CarineMS/git-powerbi/blob/master/Power-BI.png)
+<p align="center">
+![alt text](https://github.com/CarineMS/git-powerbi/blob/master/PowerBI-e1557666264791.jpg)
+</p>
 
 #  **POWER BI PARA DATA SCIENCE**
 
