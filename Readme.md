@@ -1,4 +1,4 @@
-<center> # POWER BI PARA DATA SCIENCE </center>
+# <center> POWER BI PARA DATA SCIENCE </center>
 
 ### Sobre
 📚 Repositório com as questoes e exercícios desenvolvidas ao longo do curso Microsoft PowerBi para Ciência de Dados 2.0 lecionado pela <Data Science Academy>[https://www.datascienceacademy.com.br] :)
