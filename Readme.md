@@ -1,7 +1,7 @@
-# <center> POWER BI PARA DATA SCIENCE </center>
+#  **POWER BI PARA DATA SCIENCE**
 
-### Sobre
-📚 Repositório com as questoes e exercícios desenvolvidas ao longo do curso Microsoft PowerBi para Ciência de Dados 2.0 lecionado pela <Data Science Academy>[https://www.datascienceacademy.com.br] :)
+### **Sobre**
+📚 Repositório com as questoes e exercícios desenvolvidas ao longo do curso Microsoft PowerBi para Ciência de Dados 2.0 lecionado pela [Data Science Academy](https://www.datascienceacademy.com.br) :)
 
 O curso é dividido em 4 módulos:
  * Análise de dados com o Power BI;
