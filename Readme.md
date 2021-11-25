@@ -1,8 +1,8 @@
-<p align="center">
 ![alt text](https://github.com/CarineMS/git-powerbi/blob/master/PowerBI-e1557666264791.jpg)
-</p>
 
+<p align="center">
 #  **POWER BI PARA DATA SCIENCE**
+</p>
 
 ## **Sobre**
 📚 Repositório com as questoes e exercícios desenvolvidas ao longo do curso Microsoft PowerBi para Ciência de Dados 2.0 lecionado pela [Data Science Academy](https://www.datascienceacademy.com.br) :)
