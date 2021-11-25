@@ -1,3 +1,5 @@
+![alt text](https://github.com/CarineMS/git-powerbi/blob/master/Power-BI.png)
+
 #  **POWER BI PARA DATA SCIENCE**
 
 ## **Sobre**
